@@ -1,0 +1,33 @@
+body {
+    background-color: #c3c5ca;
+}
+header {
+    text-align: center;
+}
+h1 {
+    color: #000000;
+}
+p {
+    color: #374151;
+}
+.card {
+    text-align: left;
+    display: inline-block;
+    margin: 20px;
+    width: 288px;
+    border-radius: 30px;
+}
+.card-img-top {
+    width: 14rem ;
+    height: 14rem;
+    margin: 15px;
+    margin-left: 25px;
+}
+.ms-3 img {
+    border-radius: 20px;
+}
+.hjj {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
